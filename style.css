@@ -63,7 +63,7 @@ h1,h2{
     font-size: 30px;
 }
 header{
-    background-image: url(images/mac.jpg);
+    background-image: url(mac.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
